@@ -1,0 +1,40 @@
+﻿  ACTOR.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\STONE.h(5,1): error C2504: 'ACTOR': 定義されていない基底クラスが宣言されています。
+C:\Users\81809\source\repos\Dxlib_sample\STONE.h(9,10): error C3668: 'STONE::draw': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+C:\Users\81809\source\repos\Dxlib_sample\STONE.h(10,10): error C3668: 'STONE::proc': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+  CONTAINER.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\ACTOR.h(5,1): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  GAME.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  GAME_OBJECT.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\ACTOR.h(5,1): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  PLAY.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\ACTOR.h(5,1): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+C:\Users\81809\source\repos\Dxlib_sample\PLAY.cpp(28,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\source\repos\Dxlib_sample\PLAY.cpp(29,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\source\repos\Dxlib_sample\PLAY.cpp(29,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  RESULT.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\ACTOR.h(5,1): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+C:\Users\81809\source\repos\Dxlib_sample\RESULT.cpp(22,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\source\repos\Dxlib_sample\RESULT.cpp(23,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\source\repos\Dxlib_sample\RESULT.cpp(23,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  SCENE.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\ACTOR.h(5,1): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  STONE.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\GAME.h(37,8): error C2143: 構文エラー: ';' が '*' の前にありません。
+C:\Users\81809\source\repos\Dxlib_sample\GAME.h(37,8): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\81809\source\repos\Dxlib_sample\GAME.h(37,37): error C2238: ';' の前に無効なトークンがあります。
+  TITLE.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81809\source\repos\Dxlib_sample\ACTOR.h(5,1): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+C:\Users\81809\source\repos\Dxlib_sample\TITLE.cpp(20,19): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\source\repos\Dxlib_sample\TITLE.cpp(21,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\source\repos\Dxlib_sample\TITLE.cpp(21,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...

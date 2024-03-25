@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GAME_OBJECT">
+      <UniqueIdentifier>{7011903a-43cb-4718-92cd-186f0bb2a138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME_OBJECT\base">
+      <UniqueIdentifier>{940b7302-4bdd-44db-9762-a4fafcf50df0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Container">
+      <UniqueIdentifier>{0a7de3c0-b7c7-40f8-b028-aafbfb9bbe20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Maneger">
+      <UniqueIdentifier>{efeb1719-614d-4514-86aa-ae177a234fdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{693d7578-21f5-4315-a941-01d0372ca1f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\base">
+      <UniqueIdentifier>{3d42a461-e03f-47a8-923a-fefe887c7f21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GAME.cpp">
+      <Filter>Maneger</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Maneger</Filter>
+    </ClCompile>
+    <ClCompile Include="SCENE.cpp">
+      <Filter>Scene\base</Filter>
+    </ClCompile>
+    <ClCompile Include="GAME_OBJECT.cpp">
+      <Filter>GAME_OBJECT\base</Filter>
+    </ClCompile>
+    <ClCompile Include="ACTOR.cpp" />
+    <ClCompile Include="key.cpp">
+      <Filter>Scene\base</Filter>
+    </ClCompile>
+    <ClCompile Include="PLAY.cpp">
+      <Filter>Scene\base</Filter>
+    </ClCompile>
+    <ClCompile Include="RESULT.cpp">
+      <Filter>Scene\base</Filter>
+    </ClCompile>
+    <ClCompile Include="TITLE.cpp">
+      <Filter>Scene\base</Filter>
+    </ClCompile>
+    <ClCompile Include="VECTOR2.cpp">
+      <Filter>Scene\base</Filter>
+    </ClCompile>
+    <ClCompile Include="CONTAINER.cpp">
+      <Filter>Container</Filter>
+    </ClCompile>
+    <ClCompile Include="STONE.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GAME.h">
+      <Filter>Maneger</Filter>
+    </ClInclude>
+    <ClInclude Include="SCENE.h">
+      <Filter>Scene\base</Filter>
+    </ClInclude>
+    <ClInclude Include="GAME_OBJECT.h">
+      <Filter>GAME_OBJECT\base</Filter>
+    </ClInclude>
+    <ClInclude Include="ACTOR.h" />
+    <ClInclude Include="key.h">
+      <Filter>Scene\base</Filter>
+    </ClInclude>
+    <ClInclude Include="PLAY.h">
+      <Filter>Scene\base</Filter>
+    </ClInclude>
+    <ClInclude Include="RESULT.h">
+      <Filter>Scene\base</Filter>
+    </ClInclude>
+    <ClInclude Include="TITLE.h">
+      <Filter>Scene\base</Filter>
+    </ClInclude>
+    <ClInclude Include="VECTOR2.h">
+      <Filter>Scene\base</Filter>
+    </ClInclude>
+    <ClInclude Include="CONTAINER.h">
+      <Filter>Container</Filter>
+    </ClInclude>
+    <ClInclude Include="STONE.h" />
+  </ItemGroup>
+</Project>
